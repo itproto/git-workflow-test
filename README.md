@@ -7,3 +7,4 @@ Test drive project for basic git workflow with:
 - merging back
 - adding code
 - adding lib
+- multi repo
